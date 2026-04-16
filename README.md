@@ -7,8 +7,9 @@ sdance2-fast-15s为15秒的满血fast模型
 <br>
 已支持满血版doubao-seedance-2-0-260128和doubao-seedance-2-0-fast-260128。
 支持全能参考，视频编辑，视频延长等官方全功能。无需排队。<br>
-- 查看详情：[https://api.xgapi.top/pricing?model=doubao-seedance-2-0](https://api.xgapi.top/pricing?model=doubao-seedance-2-0)。<br>
-- 对接文档：[https://xgapi.apifox.cn/444231142e0](https://xgapi.apifox.cn/444231142e0)<br>
+
+- 查看详情：[https://api.xgapi.top/pricing?model=doubao-seedance-2-0](https://api.xgapi.top/pricing?model=doubao-seedance-2-0) <br>
+- 对接文档：[https://xgapi.apifox.cn/444231142e0](https://xgapi.apifox.cn/444231142e0) <br>
 
 生成示例：
 
