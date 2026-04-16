@@ -3,12 +3,12 @@ sdance2-fast-15s为15秒的满血fast模型
 > 官方3.5折！官方3.5折！官方3.5折！官方3.5折！  15s视频仅需3.8元！！！！
 > > 官方3.5折！官方3.5折！官方3.5折！官方3.5折！  15s视频仅需3.8元！！！！
 > > > 官方3.5折！官方3.5折！官方3.5折！官方3.5折！  15s视频仅需3.8元！！！！
+
+<br>
 已支持满血版doubao-seedance-2-0-260128和doubao-seedance-2-0-fast-260128。
 支持全能参考，视频编辑，视频延长等官方全功能。无需排队。
-
-查看详情：[https://api.xgapi.top/pricing?model=doubao-seedance-2-0](https://api.xgapi.top/pricing?model=doubao-seedance-2-0)。<br>
-对接文档：[https://xgapi.apifox.cn/444231142e0](https://xgapi.apifox.cn/444231142e0)<br>
-<img width="682" height="654" alt="dea8f80600ba546912b5bffdc6af0cb3" src="https://github.com/user-attachments/assets/2054aa7e-6bc5-4795-b281-cbe4e49435b2" />
+- 查看详情：[https://api.xgapi.top/pricing?model=doubao-seedance-2-0](https://api.xgapi.top/pricing?model=doubao-seedance-2-0)。<br>
+- 对接文档：[https://xgapi.apifox.cn/444231142e0](https://xgapi.apifox.cn/444231142e0)<br>
 
 生成示例：
 
